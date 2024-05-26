@@ -2,7 +2,7 @@
 - 👀 I’m interested in anadecs
 - 🌱 I’m currently learning how to play guitar
 - 💞️ I’m looking to collaborate with anadecs
-- 📫 How to reach me on instagram @moiesese
+- 📫 Reach me on instagram @moiesese
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love anadecs
 
