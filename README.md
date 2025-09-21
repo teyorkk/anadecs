@@ -24,10 +24,10 @@ Hi, I am Moises Theo a 4th year student and an aspiring web developer.
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=teyorkk&theme=dark&show_icons=true&count_private=true">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=teyorkk&theme=white&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=teyorkk&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=teyorkk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=teyorkk&theme=white"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=teyorkk&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
 
